@@ -1,0 +1,20 @@
+/* Editor.css */
+.token.comment {
+    color: #6a9955; /* Green for comments */
+  }
+  
+  .token.keyword {
+    color: #569cd6; /* Blue for keywords */
+  }
+  
+  .token.string {
+    color: #ce9178; /* Orange for strings */
+  }
+  
+  .token.function {
+    color: #dcdcaa; /* Yellow for functions */
+  }
+  
+  .token.operator {
+    color: #d4d4d4; /* Light gray for operators */
+  }
